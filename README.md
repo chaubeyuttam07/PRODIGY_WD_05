@@ -12,3 +12,4 @@ Weather Web App
   >CSS
   >JavaScript
   >Weather API (Replace with actual API link)
+>>Link of Project:https://weatherlive07.netlify.app/
